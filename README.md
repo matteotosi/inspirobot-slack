@@ -47,7 +47,7 @@ To add inspirobot to your Slack workspace:
 - Install your app as an [internal integration](https://api.slack.com/internal-integrations) for your workspace.
 
 ## API
-**Get an inspirobot quote url as a Slack message**
+**Get an cestaros-inspirobot quote url as a Slack message**
 
 Returns json data with the Slack's message.
 - **URL:** `/quote`
